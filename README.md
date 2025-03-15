@@ -21,6 +21,9 @@
 - 金鉱石：30ポイント
 - ダイヤモンド鉱石：50ポイント
 
+## プレイ動画
+https://github.com/user-attachments/assets/bf1f47bf-5160-47a1-aa94-13c94de36f8b
+
 ## データベースの接続方法
 **MySQLの設定**  
 このプラグインはMySQLを使用してスコアを保存します。  
