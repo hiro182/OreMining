@@ -47,6 +47,6 @@ https://github.com/user-attachments/assets/bf1f47bf-5160-47a1-aa94-13c94de36f8b
 
 ## 対応バージョン  
 ・Java 21.0.5  
-・MySQL　8.0.4  
+・MySQL 8.0.4  
 ・Paper 1.21.1   
 ・Minecraft 1.21.1
