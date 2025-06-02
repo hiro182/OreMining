@@ -46,5 +46,7 @@ https://github.com/user-attachments/assets/bf1f47bf-5160-47a1-aa94-13c94de36f8b
 3. MySQLのurl,username,passwordはご自身のローカル環境に合わせてご使用ください。(mybatis-config.xmlで設定します。)
 
 ## 対応バージョン  
-・Paper: 1.21.1  
-・Minecraft: 1.21.1
+・Java 21.0.5  
+・MySQL　8.0.4  
+・Paper 1.21.1   
+・Minecraft 1.21.1
