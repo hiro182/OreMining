@@ -69,6 +69,9 @@ new BukkitRunnable() {
 
 ## ⛏ 鉱石採掘によるスコア加算処理
 採掘されたブロックの種類に応じて、プレイヤーのスコアを加算します。
+
+![無題の動画 ‐ Clipchampで作成 (3)](https://github.com/user-attachments/assets/06b5df3b-8996-4f87-a296-2cb58bc2a1a4)
+
 ```java
 @EventHandler
   public void onBlockBreak(BlockBreakEvent e) {
