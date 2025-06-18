@@ -39,6 +39,9 @@ private void placeRandomOres(Player player) {
 ##  🕹ゲームの進行制御（カウントダウンタイマー）
 ゲーム時間を1秒ごとに減らし、時間切れでスコア保存＆終了処理を実行します。
 
+
+![無題の動画 ‐ Clipchampで作成 (2)](https://github.com/user-attachments/assets/fef98e05-1f01-4546-9006-e6786a6bfa7c)
+
 ```java
 new BukkitRunnable() {
       @Override
