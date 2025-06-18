@@ -8,6 +8,9 @@
 ## 🧊鉱石の配置処理（5×5×5範囲）
 ゲーム開始時に、プレイヤーの視線の先に5×5×5の範囲で鉱石がランダム生成されます。
 
+![無題の動画 ‐ Clipchampで作成 (1)](https://github.com/user-attachments/assets/11e151b3-2ce9-4534-a047-3cd289eb69bb)
+
+
 ```java
 private void placeRandomOres(Player player) {
     Location playerLocation = player.getLocation(); // プレイヤーの現在位置を取得
